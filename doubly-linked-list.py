@@ -144,13 +144,3 @@ print('\nRemoved node:')
 print(my_doubly_linked_list.remove(2).value)
 print('DLL after remove() in middle:')
 my_doubly_linked_list.print_list()
-
-print('\nRemoved node:')
-print(my_doubly_linked_list.remove(0).value)
-print('DLL after remove() of first node:')
-my_doubly_linked_list.print_list()
-
-print('\nRemoved node:')
-print(my_doubly_linked_list.remove(2).value)
-print('DLL after remove() of last node:')
-my_doubly_linked_list.print_list()
