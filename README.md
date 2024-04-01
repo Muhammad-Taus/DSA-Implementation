@@ -13,11 +13,11 @@
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
 
-## 🚀 Introduction
+## <a name="introduction"></a>🚀 Introduction
 
 Data structures and algorithms are fundamental concepts in computer science and software engineering. Understanding them is crucial for building efficient and scalable software solutions. This repository aims to provide implementations of common data structures and algorithms using Python.
 
-## 📚 Data Structures
+## <a name="data-structures"></a>📚 Data Structures
 
 The following data structures are implemented/ in progress of implementation in this repository:
 
@@ -31,7 +31,7 @@ The following data structures are implemented/ in progress of implementation in 
 - [Graph](#)
 - [Hash Table](#)
 
-## 🛠 Algorithms
+## <a name="algorithms"></a>🛠 Algorithms
 
 The following algorithms are implemented/ in progress of implementation in this repository:
 
