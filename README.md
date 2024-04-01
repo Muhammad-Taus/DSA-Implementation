@@ -12,8 +12,6 @@
 - [Introduction](#introduction)
 - [Data Structures](#data-structures)
 - [Algorithms](#algorithms)
-- [Usage](#usage)
-- [License](#license)
 
 ## 🚀 Introduction
 
@@ -50,16 +48,6 @@ The following algorithms are implemented in this repository:
   - Dijkstra's Algorithm
   - Bellman-Ford Algorithm
 
-## 📝 Usage
 
-Each data structure and algorithm implementation is provided in a separate Python file with a corresponding example demonstrating its usage. To use any of the implementations, simply import the relevant Python file into your project.
 
-```python
-from data_structures import Stack
 
-# Example usage of Stack
-stack = Stack()
-stack.push(1)
-stack.push(2)
-stack.push(3)
-print(stack.pop())  # Output: 3
