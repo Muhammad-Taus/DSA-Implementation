@@ -19,19 +19,21 @@ Data structures and algorithms are fundamental concepts in computer science and 
 
 ## 📚 Data Structures
 
-The following data structures are implemented in this repository:
+The following data structures are implemented/ in progress of implementation in this repository:
 
+- [Array](#)
 - [Stack](#)
 - [Queue](#)
-- [Linked List](#)
-- [Binary Tree](#)
+- [Singly Linked List](#)
+- [Doubly Linked List](#)
+- [Binary Search Tree](#)
 - [Heap](#)
 - [Graph](#)
 - [Hash Table](#)
 
 ## 🛠 Algorithms
 
-The following algorithms are implemented in this repository:
+The following algorithms are implemented/ in progress of implementation in this repository:
 
 - [Sorting Algorithms](#)
   - Bubble Sort
